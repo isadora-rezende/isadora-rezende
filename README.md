@@ -15,6 +15,7 @@
 ### 🚀 Minha Stack de Estudos (QA)
 
 | Ferramenta | Foco | Status |
+| :--- | :--- | :--- |
 | **Cypress** | Automação Web E2E | ⭐ Principal |
 | **JavaScript** | Lógica e Scripts de Teste | 🔥 Em evolução |
 | **Postman** | Testes de API Manual | ✅ Básico |
