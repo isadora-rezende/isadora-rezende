@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre Mim
 - 🎓 Estudante de **Engenharia de Software** (5º Período).
-- 🎯 Atualmente focado em me tornar **QA Engineer**.
+- 🎯 Atualmente focada em me tornar **QA Engineer**.
 - 🛠️ Especializando em automação de testes E2E com **Cypress** e **JavaScript**.
 - 🧪 Desenvolvendo habilidades em testes de API e metodologias ágeis.
 
