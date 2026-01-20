@@ -5,7 +5,7 @@
 # Olá, meu nome é Isadora! 👋
 
 ### 👨‍💻 Sobre Mim
-- 🎓 Estudante de **Engenharia de Software** (5º Período).
+- 🎓 Estudante de **ADS**.
 - 🎯 Atualmente focada em me tornar **QA Engineer**.
 - 🛠️ Especializando em automação de testes E2E com **Cypress** e **JavaScript**.
 - 🧪 Desenvolvendo habilidades em testes de API e metodologias ágeis.
